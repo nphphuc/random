@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/// Widget hiển thị chân trang (Footer) của tiện ích, ghi rõ nguồn "Powered by RANDOM.ORG".
 class RandomFooter extends StatelessWidget {
   const RandomFooter({super.key});
 

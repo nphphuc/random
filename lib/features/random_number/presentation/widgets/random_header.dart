@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+/// Widget hiển thị phần tiêu đề (Header) của bảng sinh số ngẫu nhiên.
+/// Được thiết kế với nền màu xám/xanh nhạt đặc trưng.
 class RandomHeader extends StatelessWidget {
   const RandomHeader({super.key});
 
